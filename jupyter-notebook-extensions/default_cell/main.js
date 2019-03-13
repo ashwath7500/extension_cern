@@ -11,7 +11,7 @@ define([
       var defaultCellButton = function () {
           Jupyter.toolbar.add_buttons_group([
               Jupyter.keyboard_manager.actions.register ({
-                  'help': 'Add default cell',
+                  'help': 'Redriect link',
                   'icon' : 'fa-play-circle',
                   'handler': redirct
               }, 'redirct-to-spark', 'Button')
