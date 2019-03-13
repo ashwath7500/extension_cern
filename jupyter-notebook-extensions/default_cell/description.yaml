@@ -1,0 +1,10 @@
+Type: Jupyter Notebook Extension
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Name: Spark redirect
+Main: main.js
+Link: README.md
+Description: |
+  Adds a button which redircts to spark's website when clicked.
+
+Parameters:
+- none
